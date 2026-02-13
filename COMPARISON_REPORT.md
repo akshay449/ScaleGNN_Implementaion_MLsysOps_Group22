@@ -332,5 +332,5 @@ ScaleGNN is **validated and ready** for single-GPU deployment where memory effic
 ---
 
 **Document Version:** 1.0
-**Last Updated:** February 3, 2026
+**Last Updated:** February 13, 2026
 **Status:** Laptop Validation Complete, HPC Validation Pending
